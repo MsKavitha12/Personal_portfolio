@@ -660,7 +660,7 @@ span{
 }
 @media (min-width:319px) and (max-width:480px){
     .skills-box{
-        height: 900px;
+        height: 600px;
     }
     .certi-box img{
         height: 400px;
