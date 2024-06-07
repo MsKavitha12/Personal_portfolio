@@ -658,3 +658,8 @@ span{
         height: 500px;
     }
 }
+@media (min-width:319px) and (max-width:480px){
+    .skills-box{
+        height: 600px;
+    }
+}
